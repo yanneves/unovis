@@ -6,6 +6,7 @@ demo/dist
 tmp
 out-tsc
 packages/*/lib
+!packages/ts/lib
 packages/*/build
 packages/*/dist-demo
 
